@@ -1,0 +1,37 @@
+#BODY
+ {
+    text-align:center;
+    background-color:rgb(10, 164, 253);
+}
+
+#H3{
+    background-color: rgb(208, 255, 0);
+    text-decoration-color:white;
+}
+ 
+#Header 
+{
+    background-color: rgb(23, 218, 120);
+    text-decoration-color: black;
+}
+
+.menu 
+{
+  list-style: none;   
+  position: absolute;
+  top: 10px;
+  right: 30px;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.links
+{
+    float: left;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px;
+}
